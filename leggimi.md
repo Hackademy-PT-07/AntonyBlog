@@ -1,0 +1,1 @@
+Putroppo sono stato costretto a ricominciare da zero non sono riuscito ad implementare tutto.
